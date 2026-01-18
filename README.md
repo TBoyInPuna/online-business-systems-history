@@ -1,5 +1,5 @@
 # Online Business Systems (San Francisco)
-## An IBM Mainframe Service Bureau and Its CICS/WYLBUR Systems (1973–1982)
+## An IBM Mainframe Service Bureau and Its CICS and WYLBUR Systems (1973–1982)
 
 This repository contains a technical and historical recollection of **Online Business Systems (OBS)**, a San Francisco–based IBM mainframe service bureau that operated during the 1970s and early 1980s.
 
